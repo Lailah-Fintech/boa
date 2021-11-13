@@ -2,5 +2,5 @@ List of users
 Simon
 Percy
 Elvis
-kalifat
+Kalifat
 Yusuf
